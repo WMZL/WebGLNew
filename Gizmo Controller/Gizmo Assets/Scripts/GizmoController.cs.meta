@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 25ac293d423a45848823835477afece1
+labels:
+- gizmo
+- editor
+- position
+- rotate
+- scale
+- axis
+- controller
+- runtime
+timeCreated: 18446744011573954816
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

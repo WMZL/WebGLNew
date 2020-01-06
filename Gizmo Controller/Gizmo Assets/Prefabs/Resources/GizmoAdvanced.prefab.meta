@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4ce9d921f72eb3d48a7ce06e40ed9e6e
+labels:
+- gizmo
+- controller
+- axis
+- handle
+- position
+- rotation
+- scale
+timeCreated: 18446744011573954816
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
